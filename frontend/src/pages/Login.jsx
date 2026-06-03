@@ -18,7 +18,15 @@ function Login() {
           boxShadow: "0 8px 20px rgba(0,0,0,0.08)",
         }}
       >
-        <h2>Login</h2>
+        <h2
+  style={{
+    color: "#14B8A6",
+    textAlign: "center",
+    marginBottom: "20px",
+  }}
+>
+  Login
+</h2>
 
         <input
           type="email"
